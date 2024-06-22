@@ -1,5 +1,5 @@
 import Button from './Button';
-import styles from './App.module.css';
+import styles from './App.module.css'; // css 모듈화해서 사용하기
 
 function App() {
   return (
